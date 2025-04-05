@@ -1,0 +1,1 @@
+python code/lrp/main.py --train=0 --dataset_name="uoft-cs/cifar10" --batch_size=32 --seed=42

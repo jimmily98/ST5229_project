@@ -1,0 +1,1 @@
+python code/lrp/main.py --plot_relevance=1 --dataset_name="uoft-cs/cifar10" --seed=42 --sample_image=13 --sample_image=13
